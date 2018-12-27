@@ -1,0 +1,1 @@
+/usr/local/go/bin/go run oktacsv.go https://$OKTA_TENANT  $OKTA_API_KEY
